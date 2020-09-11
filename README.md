@@ -7,6 +7,6 @@ these three policies were compared with respect to their mean delay and mean mes
 overhead under same conditions. The programming language used for this project was Python
 
 
-Team Name: Iverson
-Members:Sabriye Ela Esme 1912580, Alessandro Taglieri 1890945,  Ulviyya Jafarli 1921169,
+
+Team Members: Sabriye Ela Esme 1912580, Alessandro Taglieri 1890945,  Ulviyya Jafarli 1921169,
 Guglielmo Lato 1257406.
